@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SolutionFile>
+		<Header>
+			<Date>2022-12-15</Date>
+			<Time>14:03:02.6726171+00:00</Time>
+			<Version>1</Version>
+			<Type>Solution</Type>
+			<ID>c45b282d-3aef-477e-859f-fd6932eaca74</ID>
+		</Header>
+		<Solution_Data>
+			<Files>
+				<Name />
+				<Content>
+					<Items>
+						<File>ABRIR.vgbproj</File>
+					</Items>
+					<Items>
+						<File>ABRIR.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>CANCEL.vgbproj</File>
+					</Items>
+					<Items>
+						<File>CANCEL.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>GOSTO.vgbproj</File>
+					</Items>
+					<Items>
+						<File>GOSTO.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>PESQUISR_NATAL.vgbproj</File>
+					</Items>
+					<Items>
+						<File>PESQUISR_NATAL.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>SELECT.vgbproj</File>
+					</Items>
+					<Items>
+						<File>SELECT.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>SLIDE_DOWN.vgbproj</File>
+					</Items>
+					<Items>
+						<File>SLIDE_DOWN.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>SLIDE_L.vgbproj</File>
+					</Items>
+					<Items>
+						<File>SLIDE_L.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>SLIDE_R.vgbproj</File>
+					</Items>
+					<Items>
+						<File>SLIDE_R.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>SLIDE_UP.vgbproj</File>
+					</Items>
+					<Items>
+						<File>SLIDE_UP.a.vgbproj</File>
+					</Items>
+				</Content>
+			</Files>
+		</Solution_Data>
+		<UI_State />
+		<Attributes />
+	</SolutionFile>
+</GestureBuilderFile>

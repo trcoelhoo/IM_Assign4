@@ -1,0 +1,54 @@
+C:\DEMO_FRAMEWORK_FUSION_MAY2018\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\speechModality.csprojResolveAssemblyReference.cache
+C:\DEMO_FRAMEWORK_FUSION_MAY2018\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\MainWindow.g.cs
+C:\DEMO_FRAMEWORK_FUSION_MAY2018\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\App.g.cs
+C:\DEMO_FRAMEWORK_FUSION_MAY2018\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\speechModality_Content.g.cs
+C:\DEMO_FRAMEWORK_FUSION_MAY2018\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\speechModality_MarkupCompile.cache
+C:\DEMO_FRAMEWORK_FUSION_MAY2018\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\speechModality_MarkupCompile.lref
+C:\DEMO_FRAMEWORK_FUSION_MAY2018\CompleteExampleWithFusion\speechModality\speechModality\bin\Release\ptG.grxml
+C:\DEMO_FRAMEWORK_FUSION_MAY2018\CompleteExampleWithFusion\speechModality\speechModality\bin\Release\speechModality.exe.config
+C:\DEMO_FRAMEWORK_FUSION_MAY2018\CompleteExampleWithFusion\speechModality\speechModality\bin\Release\speechModality.exe
+C:\DEMO_FRAMEWORK_FUSION_MAY2018\CompleteExampleWithFusion\speechModality\speechModality\bin\Release\speechModality.pdb
+C:\DEMO_FRAMEWORK_FUSION_MAY2018\CompleteExampleWithFusion\speechModality\speechModality\bin\Release\Microsoft.Speech.dll
+C:\DEMO_FRAMEWORK_FUSION_MAY2018\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\MainWindow.baml
+C:\DEMO_FRAMEWORK_FUSION_MAY2018\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\speechModality.g.resources
+C:\DEMO_FRAMEWORK_FUSION_MAY2018\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\speechModality.Properties.Resources.resources
+C:\DEMO_FRAMEWORK_FUSION_MAY2018\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\speechModality.csproj.GenerateResource.Cache
+C:\DEMO_FRAMEWORK_FUSION_MAY2018\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\speechModality.csproj.CoreCompileInputs.cache
+C:\DEMO_FRAMEWORK_FUSION_MAY2018\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\speechModality.exe
+C:\DEMO_FRAMEWORK_FUSION_MAY2018\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\speechModality.pdb
+D:\cloud\Dropbox\SGH\CompleteExampleWithFusion\speechModality\speechModality\bin\Release\ptG.grxml
+D:\cloud\Dropbox\SGH\CompleteExampleWithFusion\speechModality\speechModality\bin\Release\speechModality.exe.config
+D:\cloud\Dropbox\SGH\CompleteExampleWithFusion\speechModality\speechModality\bin\Release\speechModality.exe
+D:\cloud\Dropbox\SGH\CompleteExampleWithFusion\speechModality\speechModality\bin\Release\speechModality.pdb
+D:\cloud\Dropbox\SGH\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\speechModality.csprojResolveAssemblyReference.cache
+D:\cloud\Dropbox\SGH\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\MainWindow.g.cs
+D:\cloud\Dropbox\SGH\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\App.g.cs
+D:\cloud\Dropbox\SGH\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\speechModality_Content.g.cs
+D:\cloud\Dropbox\SGH\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\speechModality_MarkupCompile.cache
+D:\cloud\Dropbox\SGH\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\speechModality_MarkupCompile.lref
+D:\cloud\Dropbox\SGH\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\MainWindow.baml
+D:\cloud\Dropbox\SGH\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\speechModality.g.resources
+D:\cloud\Dropbox\SGH\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\speechModality.Properties.Resources.resources
+D:\cloud\Dropbox\SGH\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\speechModality.csproj.GenerateResource.Cache
+D:\cloud\Dropbox\SGH\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\speechModality.csproj.CoreCompileInputs.cache
+D:\cloud\Dropbox\SGH\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\speechModality.exe
+D:\cloud\Dropbox\SGH\CompleteExampleWithFusion\speechModality\speechModality\obj\Release\speechModality.pdb
+C:\Users\TiagoC\Desktop\MEI\IM\Assign 4\speechModality\speechModality\bin\Release\ptG.grxml
+C:\Users\TiagoC\Desktop\MEI\IM\Assign 4\speechModality\speechModality\bin\Release\speechModality.exe.config
+C:\Users\TiagoC\Desktop\MEI\IM\Assign 4\speechModality\speechModality\bin\Release\speechModality.exe
+C:\Users\TiagoC\Desktop\MEI\IM\Assign 4\speechModality\speechModality\bin\Release\speechModality.pdb
+C:\Users\TiagoC\Desktop\MEI\IM\Assign 4\speechModality\speechModality\bin\Release\Microsoft.Speech.dll
+C:\Users\TiagoC\Desktop\MEI\IM\Assign 4\speechModality\speechModality\obj\Release\speechModality.csproj.AssemblyReference.cache
+C:\Users\TiagoC\Desktop\MEI\IM\Assign 4\speechModality\speechModality\obj\Release\MainWindow.g.cs
+C:\Users\TiagoC\Desktop\MEI\IM\Assign 4\speechModality\speechModality\obj\Release\App.g.cs
+C:\Users\TiagoC\Desktop\MEI\IM\Assign 4\speechModality\speechModality\obj\Release\speechModality_Content.g.cs
+C:\Users\TiagoC\Desktop\MEI\IM\Assign 4\speechModality\speechModality\obj\Release\speechModality_MarkupCompile.cache
+C:\Users\TiagoC\Desktop\MEI\IM\Assign 4\speechModality\speechModality\obj\Release\speechModality_MarkupCompile.lref
+C:\Users\TiagoC\Desktop\MEI\IM\Assign 4\speechModality\speechModality\obj\Release\MainWindow.baml
+C:\Users\TiagoC\Desktop\MEI\IM\Assign 4\speechModality\speechModality\obj\Release\speechModality.g.resources
+C:\Users\TiagoC\Desktop\MEI\IM\Assign 4\speechModality\speechModality\obj\Release\speechModality.Properties.Resources.resources
+C:\Users\TiagoC\Desktop\MEI\IM\Assign 4\speechModality\speechModality\obj\Release\speechModality.csproj.GenerateResource.cache
+C:\Users\TiagoC\Desktop\MEI\IM\Assign 4\speechModality\speechModality\obj\Release\speechModality.csproj.CoreCompileInputs.cache
+C:\Users\TiagoC\Desktop\MEI\IM\Assign 4\speechModality\speechModality\obj\Release\speechModality.csproj.CopyComplete
+C:\Users\TiagoC\Desktop\MEI\IM\Assign 4\speechModality\speechModality\obj\Release\speechModality.exe
+C:\Users\TiagoC\Desktop\MEI\IM\Assign 4\speechModality\speechModality\obj\Release\speechModality.pdb
